@@ -20,5 +20,5 @@ This is formatted as: 'Saint;Date;Patronage'
 ### TODO
 
 - [x] Saints and their feast days
-- [ ] Marian Antiphons, latin and english, times they're sung
+- [x] Marian Antiphons, latin and english, times they're sung
 - [ ] All basic prayers (hail mary, our father, etc)
