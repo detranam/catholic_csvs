@@ -21,4 +21,4 @@ This is formatted as: 'Saint;Date;Patronage'
 
 - [x] Saints and their feast days
 - [x] Marian Antiphons, latin and english, times they're sung
-- [ ] All basic prayers (hail mary, our father, etc)
+- [ ] All basic prayers (hail mary, our father, etc) in both english and latin
