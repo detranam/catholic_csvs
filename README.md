@@ -2,9 +2,10 @@
 
 ## NOTE
 
-All CSV files have an end of line of \r\n, and their delimiter is always a semicolon (;). The first line is always the header.
+All CSV files have an end of line of \r\n, and their delimiter is always a tab. ('\t'). The first line is always the header.  
+Yes, I know the title is 'csv' and I'm using tsv. It's easier for some to use.
 
-## General CSV Files
+## General TSV Files
 
 These are all files that might be useful for application development for religious (Catholic, most likely) applications. Feel free to use any of them!
 
